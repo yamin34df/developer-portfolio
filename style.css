@@ -1,0 +1,51 @@
+body{
+    font-family: 'Encode Sans SC', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.orng{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.hwth{
+    width: 50%;
+    padding-left: 5%;
+}
+.hwth img{
+    width: 80%;
+    height: 80%;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, red);
+    color: white;
+    font-weight: 400;
+    padding: 10px;
+    border-radius: 6px;
+}
+.bc1{
+    background-image: url(images/shapes/Frame\ 57.jpg);
+}
+.bc2{
+    background-image: url(images/shapes/7.png);
+}
+.cntr{
+    text-align: center;
+}
+.nd{
+    width: 100%;
+    padding: 4%;
+    margin-top: 100px;
+    margin-left: 33px;
+    margin-right: 45px;
+    box-shadow: rgb(212, 212, 25);
+    border-radius: 30px;
+    background-color: red
+}
+.nd img{
+width: 60%;
+}
